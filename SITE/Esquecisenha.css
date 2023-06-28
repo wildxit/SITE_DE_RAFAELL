@@ -1,6 +1,8 @@
 body {
-      font-family: Arial, sans-serif;
-      background-color: #f1f1f1;
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+  background-image: linear-gradient(to bottom, #4FFFDC,#3FCCB0,#3D8577);
+  background-attachment: fixed;
     }
     
     .container {
