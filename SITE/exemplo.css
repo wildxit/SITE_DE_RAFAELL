@@ -113,7 +113,21 @@ h2 {
 }
 
 .imagem {
-  width: 800px;
-  height: 800px;
-  margin-left: 520px;
-}
+    width: 50%;
+    margin-left: 23%;
+  }
+
+  .imagem_1 {
+    width: 50%;
+    margin-left: 23%;
+  }
+
+  .imagem_2 {
+    width: 50%;
+    margin-left: 23%;
+  }
+
+  .imagem_3 {
+    width: 50%;
+    margin-left: 23%;
+  }
