@@ -112,7 +112,7 @@ h2 {
   color: green;
 }
 
-.imagem {
+.imagem_0{
     width: 50%;
     margin-left: 23%;
   }
@@ -131,3 +131,12 @@ h2 {
     width: 50%;
     margin-left: 23%;
   }
+
+.imagem_4 {
+  widt
+
+@media screen and (max-width: 768px) {
+  .image {
+    width: 100
+  }
+}
